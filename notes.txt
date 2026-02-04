@@ -1,0 +1,1 @@
+assuming that this html structure is correct and all the first are presnt. Write style.css for styling and script.js for animation and front end javascript. The  website is of red theme
